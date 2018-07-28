@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="useful.小猪佩奇.goto" />
+          <option value="useful.小猪佩奇.penup" />
+          <option value="useful.小猪佩奇.write" />
+          <option value="useful.小猪佩奇.pendown" />
+          <option value="useful.小猪佩奇.hideturtle" />
+          <option value="useful.小猪佩奇.setup" />
+          <option value="useful.小猪佩奇.colormode" />
+          <option value="useful.小猪佩奇.pensize" />
+          <option value="useful.小猪佩奇.setheading" />
+          <option value="useful.小猪佩奇.color" />
+          <option value="useful.小猪佩奇.begin_fill" />
+          <option value="useful.小猪佩奇.end_fill" />
+          <option value="useful.小猪佩奇.left" />
+          <option value="useful.小猪佩奇.forward" />
+          <option value="useful.小猪佩奇.circle" />
+          <option value="useful.小猪佩奇.pencolor" />
+          <option value="useful.小猪佩奇.fillcolor" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

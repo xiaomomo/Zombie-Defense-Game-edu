@@ -89,7 +89,7 @@ playerRect = playerImage.get_rect()
 bulletImage = pygame.image.load('./assets/wandou.png')
 bulletRect = bulletImage.get_rect()
 
-zombieImage = pygame.image.load('./assets/jiangshi.png')
+zombieImage = pygame.image.load('./assets/zombie.png')
 newKindZombieImage = pygame.image.load('ConeheadZombieAttack.gif')
 
 backgroundImage = pygame.image.load('./assets/beijing.png')
